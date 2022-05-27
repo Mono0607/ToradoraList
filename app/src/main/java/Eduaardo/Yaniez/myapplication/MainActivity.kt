@@ -14,7 +14,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         val listaPersonajes = ArrayList<Personaje>()
 
-        listaPersonajes.add(Personaje("?","https://i.ytimg.com/vi/HTKt5xm1aFg/maxresdefault.jpg"))
+        listaPersonajes.add(Personaje("TAIGA AISAKA ( 逢坂 大河 )","https://images3.alphacoders.com/841/841345.png"))
         listaPersonajes.add(Personaje("TAIGA AISAKA ( 逢坂 大河 )","https://images3.alphacoders.com/841/841345.png"))
         listaPersonajes.add(Personaje("MINORI KUSHIEDA (櫛枝 実乃梨 )","https://images4.alphacoders.com/733/733183.png"))
         listaPersonajes.add(Personaje("AMI KAWASHIMA ( 川嶋 亜美 )","https://images.alphacoders.com/104/1041700.jpg"))
